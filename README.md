@@ -12,7 +12,7 @@ Microsoft.Threading.Tasks.dll
 Microsoft.Threading.Tasks.Extensions.Desktop.dll                                               
 Microsoft.Threading.Tasks.Extensions.dll   
 ```
-You can obtain them by obtaining the below NuGet packages, unzipping them, and selecting the right dll wir your platform (x86 or x64)
+You can obtain them by obtaining the below NuGet packages, unzipping them, and selecting the right dll for your platform (x86 or x64)
 ```
 libvlcsharp.3.4.3.nupkg                                                                        
 libvlcsharp.forms.3.4.3.nupkg                                                                  
